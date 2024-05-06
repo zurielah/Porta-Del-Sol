@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portal del Sol Funerary</title>
+    <link rel="stylesheet" href="funeralstyle.css"> 
+    <!DOCTYPE html>
+<html lang="en">
+</head>
+<body>
+<header class="centertext">
+     <img src="LogoFuneral.png" alt="Porta del Sol Logo" class="logo" > 
+        <div id="wrapper"> 
+            <nav id="mainmenu"> 
+            <ul id="cvmenu"> 
+                <li class="funerary"><a href="#wrapper">Top</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#pricing">Pricing</a></li>
+                <li><a href="#contact">Contact</a></li>
+                <li><a href="FuneralHome.html">Funeral Home</a></li>
+            </ul>
+            </nav> 
+    </header>
+    <main>
+        <h1> Porta De Sol Memorial Service</h1>
+        <section id="services">
+            <h2>Our Services</h2>
+            <p>Here at Porta Del Sol Memorial, we offer several different types of services to accommodate the diverse needs of our clients:</p>
+            <ul>
+                <li><strong>Pre-funeral Arrangement:</strong></li>
+                    <p>Our compassionate team assists individuals and
+                    families in planning and organizing all aspects of their funeral service in
+                    advance, ensuring peace of mind and relieving the burden on loved ones during
+                    a difficult time.</p> 
+                <li><strong>Burial and Funeral Ceremony:</strong> </li>
+                    <p>We provide comprehensive funeral services that
+                    include both the burial of the deceased and a meaningful ceremony to honor
+                    their life and legacy. Our dedicated staff will guide you through every step of the
+                    process with care and respect. </p>
+                <li><strong>Burial:</strong> </li>
+                    <p>For those choosing traditional burial, we offer expert assistance in
+                    selecting a final resting place and coordinating all arrangements necessary for a
+                    dignified burial service.</p>
+                <li><strong>Cremation: </strong></li>
+                    <p>Our cremation services provide a respectful and dignified alternative
+                    to traditional burial. We handle all aspects of the cremation process with
+                    sensitivity and professionalism, ensuring that your loved one is treated with the
+                    utmost care and dignity.</p> 
+                <li><strong>Cremation and Ceremony: </strong></li>
+                    <p>In addition to cremation services, we offer the option
+                    to hold a ceremony to celebrate the life of the departed. Whether it's a religious
+                    service, a memorial gathering, or a personalized tribute, we will work closely with
+                    you to create a meaningful and memorable event.</p>
+                <li><strong>Corpse Transfer: </strong></li>
+                    <p>Our reliable and efficient corpse transfer service is designed
+                        to safely transport the deceased to their final destination, whether it be another
+                        city, state, or country. With our attention to detail and commitment to excellence,
+                        you can trust us to handle this important task with professionalism and care.
+                        No matter which service you choose, you can rely on Porta Del Sol Memorial to
+                        provide compassionate support and expert guidance every step of the way.</p>
+                <li><strong>Viewing and Visitation:</strong> </li>
+                <p>Provide a quiet space for family and friends to gather, reflect, and pay their respects to the departed.</p>
+            
+            </ul>
+        </section>
+        <section id="pricing">
+            <h2>Our Pricing</h2>
+            <p>For pricing information, please contact us.</p>
+        </section>
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>If you have any questions or would like to schedule a consultation, please reach out to us:</p>
+            <address>
+                Phone: 123-456-7890<br>
+                <a href="mailto:info@portadelsol.com">Email:info@portadelsol.com<br></a>
+                Address: 123 Main St, San Juan, PR 00907<br> 
+            </address>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Portal del Sol Memorial Service. All rights reserved.</p>
+    </footer>
+</body>
+</html>
